@@ -1,5 +1,6 @@
 import React from "react";
-import "./App.css";
+
+import "assets/css/custom.css";
 
 interface IProps {}
 
